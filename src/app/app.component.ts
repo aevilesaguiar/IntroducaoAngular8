@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'course-manager';
+
+  name:string="Jonh";
+  aplicacao1: string="one way data byte";
+  aplicacao2: string="two way data byte"
 }
